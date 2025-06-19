@@ -1,0 +1,13 @@
+{
+  "heideltime_path": "/home/anibus/playground_work/iter2/heideltime/",
+  "conf_heideltime": "/home/anibus/playground_work/iter2/heideltime/config.props",
+  "java_path": "java",
+  "start_date": "2024/01/15",
+  "lang": "english",
+  "doc_type": "news",
+  "output_type": "TIMEML",
+  "encoding": "UTF-8",
+  "verbosity": false,
+  "interval_tagger": false,
+  "pos_tagger": "no"
+}
