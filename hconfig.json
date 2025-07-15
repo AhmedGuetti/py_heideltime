@@ -1,6 +1,6 @@
 {
-  "heideltime_path": "/home/anibus/playground_work/iter2/heideltime/",
-  "conf_heideltime": "/home/anibus/playground_work/iter2/heideltime/config.props",
+  "heideltime_path": "/home/enlil/Namtar/py_heideltime/python_heideltime/heideltime-standalone/heideltime-standalone/",
+  "conf_heideltime": "/home/enlil/Namtar/py_heideltime/python_heideltime/heideltime-standalone/heideltime-standalone/config.props",
   "java_path": "java",
   "start_date": "2024/01/15",
   "lang": "english",
